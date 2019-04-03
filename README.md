@@ -1,7 +1,5 @@
 # MERN todo app backend
 
-## Description
-
 This is the backend for the the [MERN todo app] on my github. (https://github.com/ogKamy/mern-todo-app)
 
 ## Instructions
