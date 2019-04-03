@@ -9,7 +9,7 @@ This is the backend for the the [MERN todo app] on my github. (https://github.co
 Simply run these instructions in the project directory:
 
 #### `npm install`
-#### `nodemon server'
+#### `nodemon server`
 
 Make sure the database is running on [MongoDB Atlas] https://cloud.mongodb.com
 
